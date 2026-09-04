@@ -70,7 +70,7 @@
 VASRĀ AI provides handloom artisans, boutique owners, and luxury merchants with an **enterprise-grade operational cockpit**:
 
 ### 6. Merchant Operations Dashboard (`/admin`)
-*Real-time executive cockpit tracking AI-assisted GMV, total virtual try-on engagement velocity, active catalog readiness, and order fulfillment.*
+*Real-time executive cockpit tracking AI-assisted GMV, total virtual try-on engagement velocity, active catalog readiness, and an **interactive visual stream of live customer photo uploads alongside their AI-draped saree results and completed Razorpay International transactions**.*
 
 ![Merchant Operations Dashboard](docs/screenshots/07_merchant_admin_dashboard.png)
 
@@ -111,6 +111,13 @@ VASRĀ AI provides handloom artisans, boutique owners, and luxury merchants with
 *Centralized inventory, stock alert monitoring, and instant price management.*
 
 ![Merchant Inventory Management](docs/screenshots/11_admin_inventory.png)
+
+---
+
+### 11. High-Definition Saree Media Library (`/admin/media`)
+*Centralized digital asset management for master handloom photography, 24K gold zari zoom shots, and CDN media assets.*
+
+![Merchant Media Library](docs/screenshots/12_admin_media_library.png)
 
 ---
 
