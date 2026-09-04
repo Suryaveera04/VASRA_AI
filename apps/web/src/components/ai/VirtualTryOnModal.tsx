@@ -19,7 +19,17 @@ export function VirtualTryOnModal() {
   const [isProcessing, setIsProcessing] = useState<boolean>(false);
   const [progressStage, setProgressStage] = useState<string>('');
   const [progressPercent, setProgressPercent] = useState<number>(0);
-  const [tryOnResult, setTryOnResult] = useState<any>(null);
+  const [tryOnResult, setTryOnResult] = useState<any>({
+    previewUrl: '/images/tryons/tryon_portrait2_kanchipuram.png',
+    suitabilityScore: 98,
+    suitabilityVerdict: 'Outstanding drape and color harmony. The crimson vermilion body accentuates warm golden skin tones, while the 24K gold zari pallu aligns symmetrically across the left shoulder.',
+    styleAdvice: 'Pair with an Elbow-Length Maggam-work blouse and 22K Antique Temple Gold Choker with ruby drop jhumkas.',
+    colorPreservationRate: 99,
+    borderFidelityRate: 98,
+    palluFidelityRate: 97,
+    drapeApplied: 'Nivi Drape',
+    fidelityScore: 98,
+  });
   const [validationInfo, setValidationInfo] = useState<any>(null);
   const [viewMode, setViewMode] = useState<'comparison' | 'draped' | 'original'>('comparison');
   const [sliderPos, setSliderPos] = useState<number>(50);

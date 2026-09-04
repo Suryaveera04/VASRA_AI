@@ -33,6 +33,21 @@ export function Home() {
     loadData();
   }, []);
 
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('openStylist') === 'true') {
+      openStylist();
+    } else if (params.get('openTryOn') === 'true') {
+      const targetProd = products[0] || {
+        _id: '000000000000000000000101',
+        name: 'Imperial Crimson Bridal Gold Zari Kanchipuram',
+        price: 48500,
+        images: [{ url: '/images/products/kanchipuram_bridal_crimson.png' }],
+      } as any;
+      openTryOn(targetProd);
+    }
+  }, [products]);
+
   return (
     <div className="w-full space-y-24 pb-20">
       
