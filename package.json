@@ -1,0 +1,18 @@
+{
+  "name": "saree-catalog-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:web": "npm --prefix apps/web run dev",
+    "dev:api": "npm --prefix apps/api run dev",
+    "build:web": "npm --prefix apps/web run build",
+    "build:api": "npm --prefix apps/api run build",
+    "seed:api": "npm --prefix apps/api run seed",
+    "test": "npm --prefix apps/api run test && npm --prefix apps/web run test",
+    "test:load": "npm --prefix apps/api run test:load"
+  },
+  "workspaces": [
+    "apps/web",
+    "apps/api"
+  ]
+}
