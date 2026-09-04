@@ -101,7 +101,7 @@ export const useAIStylistStore = create<AIStylistState>((set, get) => ({
       suggestedActions: [
         { label: '✨ Virtual Try-On on My Photo', action: 'OPEN_TRY_ON_MODAL', payload: { productId: '000000000000000000000101' } },
         { label: '🔍 Compare Weaves & Zari Purity', action: 'COMPARE', payload: {} },
-        { label: '💳 Direct Razorpay Checkout', action: 'CONFIRM_PAYMENT', payload: { productId: '000000000000000000000101' } },
+        { label: '💳 Instant Secure Checkout', action: 'CONFIRM_PAYMENT', payload: { productId: '000000000000000000000101' } },
       ],
       timestamp: new Date(),
     },
