@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev:web": "npm --prefix apps/web run dev",
-    "dev:api": "npm --prefix apps/api run dev",
-    "build:web": "npm --prefix apps/web run build",
-    "build:api": "npm --prefix apps/api run build",
+    "dev:web": "node init && npm --prefix apps/web run dev",
+    "dev:api": "node init && npm --prefix apps/api run dev",
+    "build:web": "node init && npm --prefix apps/web run build",
+    "build:api": "node init && npm --prefix apps/api run build",
     "seed:api": "npm --prefix apps/api run seed",
     "test": "npm --prefix apps/api run test && npm --prefix apps/web run test",
     "test:load": "npm --prefix apps/api run test:load"

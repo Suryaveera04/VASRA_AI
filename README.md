@@ -1,8 +1,8 @@
 # ⚜️ VASRĀ AI — Next-Gen Imperial Saree Showroom & AI Draping Platform
 
-> **Empowering Handloom Merchants to Sell Globally to Gen-Z and International Clients through Agentic AI, Photorealistic Virtual Try-On, and Seamless Razorpay Checkout.**
+> **Empowering Handloom Merchants to Sell Globally to Gen-Z and International Clients through Agentic AI, Photorealistic Virtual Try-On, and Seamless Global Checkout.**
 
-[![Razorpay Verified](https://img.shields.io/badge/Razorpay-Verified%20Payments%20%26%20Webhooks-0C2340?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://razorpay.com)
+[![Global Payments](https://img.shields.io/badge/Payments-Global%20UPI%20%26%20Cards-0C2340?style=for-the-badge&logo=visa&logoColor=white)](#-enterprise-payment--agentic-commerce-architecture)
 [![NVIDIA AI](https://img.shields.io/badge/AI%20Reasoning-NVIDIA%20Nemotron--70B-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://build.nvidia.com)
 [![FLUX Drape Synthesis](https://img.shields.io/badge/Virtual%20Try--On-FLUX.1--dev%20VTON-FF4081?style=for-the-badge)](https://blackforestlabs.ai)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -21,14 +21,14 @@
 ---
 
 ### 2. Conversational AI Saree Stylist (Chatbot)
-*Powered by **NVIDIA Nemotron-70B** reasoning and grounded in active showroom inventory. Features multi-attribute queries, explainability badges, direct try-on triggers, and gated Razorpay checkout.*
+*Powered by **NVIDIA Nemotron-70B** reasoning and grounded in active showroom inventory. Features multi-attribute queries, explainability badges, direct try-on triggers, and gated 1-click checkout.*
 
 ![VASRĀ AI Stylist Chatbot](docs/screenshots/05_ai_stylist_chat.png)
 
 #### 💬 Chatbot Capabilities & Structure:
 - **Zero Hallucinations:** Grounded strictly in active handloom database stock (SKU, real-time pricing, weave specifications).
 - **Explainability Badges:** Tells the buyer *why* a specific weave was picked (e.g., *"Matched Warm Golden Skin Undertone + Evening Reception Lux Index"*).
-- **Interactive Action Chips:** Users can directly click **"Virtual Try-On on My Photo"**, **"Compare Weaves"**, or **"Buy Now via Razorpay"** right within the chat flow.
+- **Interactive Action Chips:** Users can directly click **"Virtual Try-On on My Photo"**, **"Compare Weaves"**, or **"Instant Secure Checkout"** right within the chat flow.
 - **Gated Authorization Protocol:** Requires the shopper to explicitly confirm order totals before initiating payment, preventing accidental agentic purchases.
 
 ---
@@ -70,7 +70,7 @@
 VASRĀ AI provides handloom artisans, boutique owners, and luxury merchants with an **enterprise-grade operational cockpit**:
 
 ### 6. Merchant Operations Dashboard (`/admin`)
-*Real-time executive cockpit tracking AI-assisted GMV, total virtual try-on engagement velocity, active catalog readiness, and an **interactive visual stream of live customer photo uploads alongside their AI-draped saree results and completed Razorpay International transactions**.*
+*Real-time executive cockpit tracking AI-assisted GMV, total virtual try-on engagement velocity, active catalog readiness, and an **interactive visual stream of live customer photo uploads alongside their AI-draped saree results and completed international transactions**.*
 
 ![Merchant Operations Dashboard](docs/screenshots/07_merchant_admin_dashboard.png)
 
@@ -94,7 +94,7 @@ VASRĀ AI provides handloom artisans, boutique owners, and luxury merchants with
 ![Merchant AI Revenue Analytics](docs/screenshots/09_admin_ai_revenue.png)
 
 #### 📈 Revenue Intelligence:
-- **Full-Funnel Telemetry:** Tracks conversion velocity from Showroom Visit ➔ AI Stylist Engagement ➔ Virtual Try-On ➔ Gated Order Authorization ➔ Completed Razorpay Settlement.
+- **Full-Funnel Telemetry:** Tracks conversion velocity from Showroom Visit ➔ AI Stylist Engagement ➔ Virtual Try-On ➔ Gated Order Authorization ➔ Completed Payment Settlement.
 - **AI Marketing Campaign Generator:** In 1 click, converts catalog updates (*"I added 10 new Kanchipuram silks under ₹20,000"*) into ready-to-broadcast WhatsApp, Instagram, and Email campaigns.
 - **Unit Economics & Cost Tracking:** Demonstrates 40x+ return on investment (ROI) relative to AI inference costs.
 
@@ -141,7 +141,7 @@ Traditional luxury sarees—such as pure Kanchipuram silks, Banarasi brocades, a
 
 ## 💡 The Solution: VASRĀ AI
 
-VASRĀ AI eliminates these barriers by bringing the **Grand Heritage Showroom directly to their screen**, powered by **Agentic AI**, **Virtual Try-On**, and **Razorpay Global Commerce**:
+VASRĀ AI eliminates these barriers by bringing the **Grand Heritage Showroom directly to their screen**, powered by **Agentic AI**, **Virtual Try-On**, and **Global Digital Commerce**:
 
 1. **Search by Occasion, Timing, Skin Undertone & Budget:**  
    Instead of forcing users to guess complex fabric names, VASRĀ AI allows shoppers to find their dream drape by answering 4 simple questions:
@@ -166,7 +166,7 @@ VASRĀ AI eliminates these barriers by bringing the **Grand Heritage Showroom di
 
 ---
 
-## 🏪 Deep Dive: Merchant Gains & Advantages (Built for Razorpay Buildathon)
+## 🏪 Deep Dive: Merchant Gains & Advantages
 
 VASRĀ AI transforms the economics of luxury ethnic retail. Here is the exact breakdown of how merchants gain an unfair competitive advantage:
 
@@ -180,7 +180,7 @@ VASRĀ AI transforms the economics of luxury ethnic retail. Here is the exact br
 |     +------------+------------+                       +------------+------------+                 |
 |                  |                                                 ^                              |
 |                  v                                                 |                              |
-|     +-------------------------+       Razorpay        +------------+------------+                 |
+|     +-------------------------+      Enterprise       +------------+------------+                 |
 |     |    24/7 NRI Global      |       Payments        |  30%+ Higher Basket Size|                 |
 |     |      Market Reach       | ════════════════════> |  Blouse & Jewelry Addon |                 |
 |     +-------------------------+                       +-------------------------+                 |
@@ -197,7 +197,7 @@ VASRĀ AI transforms the economics of luxury ethnic retail. Here is the exact br
 
 ### 3. Unlocks Cross-Border NRI & Foreign Export Sales
 - NRI weddings represent billions in annual luxury spend. Traditional merchants miss out because foreign shoppers cannot visit India for every event.
-- VASRĀ AI provides international buyers with a personalized digital showroom, complete with **multi-currency Razorpay checkout** and immediate conversion.
+- VASRĀ AI provides international buyers with a personalized digital showroom, complete with **multi-currency global checkout** and immediate conversion.
 
 ### 4. 30%+ Expansion in Average Order Value (AOV) via AI Add-Ons
 - Rather than selling only a saree, the AI Stylist cross-sells complementary blouse fabrics, designer embroidery suggestions, and matching jewelry pieces, maximizing the merchant's margin per order.
@@ -208,9 +208,9 @@ VASRĀ AI transforms the economics of luxury ethnic retail. Here is the exact br
 
 ---
 
-## 💳 Razorpay Integration & Agentic Commerce Architecture
+## 💳 Enterprise Payment & Agentic Commerce Architecture
 
-VASRĀ AI is built from the ground up to showcase **the ultimate synergy between Agentic AI and Razorpay's payments stack**:
+VASRĀ AI features a bank-grade, tamper-proof payment pipeline designed for high-ticket luxury commerce:
 
 ```
 +----------------------------------------------------------------------------+
@@ -230,28 +230,28 @@ VASRĀ AI is built from the ground up to showcase **the ultimate synergy between
 +----------------------------------------------------------------------------+
 |                       PAYMENT SERVICE (BACKEND)                            |
 |  - Server-Side Price Calculation (Prevents client-side tampering)          |
-|  - Interacts with Razorpay Orders API: creates verified order              |
+|  - Verifies database price integrity before session token creation         |
 |  - Generates HMAC-SHA256 signature verification token                      |
 +-------------------------------------+--------------------------------------+
                                       |
                                       v
 +----------------------------------------------------------------------------+
-|                     RAZORPAY STANDARD / CUSTOM CHECKOUT                    |
+|                GLOBAL SECURE PAYMENT GATEWAY (UPI, Cards, FX)              |
 |  - Credit/Debit Cards, UPI, NetBanking, International FX Cards             |
 |  - High-ticket fraud detection & 3D Secure verification                    |
 +-------------------------------------+--------------------------------------+
                                       |
                                       v
 +----------------------------------------------------------------------------+
-|                     IDEMPOTENT RAZORPAY WEBHOOKS                           |
+|                        IDEMPOTENT PAYMENT WEBHOOKS                         |
 |  - Handles: payment.captured, order.paid, payment.failed                   |
 |  - Records AI Attribution Event (Conversion source: AI_AGENT vs DIRECT)    |
 |  - Merchant Dashboard updates live with GMV, conversion rate, and revenue  |
 +----------------------------------------------------------------------------+
 ```
 
-### Key Razorpay Security & Reliability Pillars:
-1. **Zero Client Price Tampering:** The frontend never sends price data to Razorpay. All amounts are re-calculated and verified server-side against the live database inventory (`apps/api/src/services/paymentService.ts`).
+### Key Security & Reliability Pillars:
+1. **Zero Client Price Tampering:** The frontend never sends price data to the gateway. All amounts are re-calculated and verified server-side against the live database inventory (`apps/api/src/services/paymentService.ts`).
 2. **Cryptographic HMAC-SHA256 Verification:** Every transaction signature is cryptographically verified on the backend before transitioning an order to `PAID`.
 3. **Idempotent Webhook Handling:** Handles transient network drops or duplicate webhook delivery with strict idempotency guards.
 4. **AI Revenue Attribution:** Every order tracks whether it was closed directly or assisted by the AI Stylist/VTON engine, giving merchants precise ROI on their AI investment.
@@ -270,7 +270,7 @@ VASRĀ AI is built from the ground up to showcase **the ultimate synergy between
 ### Backend API (`apps/api`)
 - **Runtime:** Node.js, Express, TypeScript (`tsx`)
 - **Database:** MongoDB via Mongoose with an automatic, zero-config **In-Memory Store fallback** for local testing
-- **Payment Processing:** Razorpay API (`PaymentService`), Crypto HMAC SHA-256
+- **Payment Processing:** Payment Gateway Engine (`PaymentService`), Crypto HMAC SHA-256
 - **AI Engines:**
   - **Reasoning & Styling:** NVIDIA Nemotron-70B
   - **Virtual Try-On Drape Synthesis:** FLUX.1-dev VTON pipeline
@@ -300,8 +300,8 @@ For local testing, the backend runs automatically in **In-Memory Store Mode** (n
 # Backend configuration (apps/api/.env)
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/saree_catalog
-RAZORPAY_KEY_ID=rzp_test_vasra_luxury_2026
-RAZORPAY_KEY_SECRET=secret_vasra_luxury_key_2026
+GATEWAY_KEY_ID=test_key_vasra_luxury_2026
+GATEWAY_KEY_SECRET=secret_vasra_luxury_key_2026
 
 # Frontend configuration (apps/web/.env)
 VITE_API_URL=http://localhost:5000
@@ -340,19 +340,20 @@ Runs comprehensive unit, integration, and load tests covering payment integrity,
 ### Merchant Intelligence & Admin Portal (Append `?demo=true` for instant review)
 - `/admin` — Merchant Executive Dashboard (Sales, GMV, Orders)
 - `/admin/ai-studio` — Automated AI Cataloging & Saree Photo Attribute Extraction
-- `/admin/ai-revenue` — AI Stylist vs Direct Sales Attribution & Razorpay Payout Analytics
+- `/admin/ai-revenue` — AI Stylist vs Direct Sales Attribution & Payment Settlement Analytics
 - `/admin/ai-audit` — Security & Autonomous Agent Action Audit Logs
 - `/admin/products` — Inventory, SKU, Stock, and Price Management
+- `/admin/media` — Saree Photography Media Library
 - `/admin/login` — Default credentials: `admin@sreeramsilks.com` / `admin123`
 
 ---
 
-## 🏆 Razorpay Buildathon Submission Highlights
+## 🏆 Enterprise Platform & Innovation Highlights
 
-| Evaluation Dimension | How VASRĀ AI Exceeds Expectations |
+| Evaluation Dimension | How VASRĀ AI Leads the Industry |
 |:---|:---|
 | **Novelty & Innovation** | Merges generative image synthesis (VTON), conversational agentic reasoning, and 3D WebGL fabric physics into an industry-first luxury handloom digital showroom. |
-| **Razorpay Stack Depth** | Deep integration: Server-side order creation, tamper-proof signature verification, multi-currency support for NRIs, and idempotent webhook listeners. |
+| **Enterprise Payment Integrity** | Deep financial architecture: Server-side order creation, tamper-proof signature verification, multi-currency support for NRIs, and idempotent webhook listeners. |
 | **Real-World Impact** | Solves high-ticket e-commerce return rates for Indian artisans and merchants while unlocking NRI export commerce. |
 | **Security & Agentic Guardrails** | Gated confirmation protocols prevent AI agents from initiating unauthorized financial transactions; complete cryptographic audit trails. |
 | **Completeness** | Fully functioning responsive frontend, backend API, in-memory test store, and end-to-end automated test suites. |
@@ -360,5 +361,4 @@ Runs comprehensive unit, integration, and load tests covering payment integrity,
 ---
 
 ## 📜 License & Acknowledgments
-Built with ❤️ for Indian handloom weavers and modern global shoppers.  
-Developed for the **Razorpay Buildathon 2026**.
+Built with ❤️ for Indian handloom weavers and modern global shoppers.

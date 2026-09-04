@@ -100,7 +100,7 @@ export function AIStylistModal() {
                 </span>
               </div>
               <p className="text-xs text-ivory-400">
-                Grounded in active handloom showroom inventory • 6 Draping styles • Razorpay Verified
+                Grounded in active handloom showroom inventory • 6 Draping styles • 100% Verified Gateway
               </p>
             </div>
           </div>

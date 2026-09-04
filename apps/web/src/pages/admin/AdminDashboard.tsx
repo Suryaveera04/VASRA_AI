@@ -79,7 +79,7 @@ const liveTryOnSessions = [
     drapedPhoto: '/images/tryons/tryon_portrait2_kanchipuram.png',
     drape: 'Nivi Drape',
     score: 98,
-    status: 'PAID via Razorpay FX',
+    status: 'PAID via Global FX (USD)',
     statusColor: 'emerald',
     timestamp: '12 mins ago',
   },
@@ -93,7 +93,7 @@ const liveTryOnSessions = [
     drapedPhoto: '/images/tryons/tryon_portrait2_paithani.png',
     drape: 'Nauvari Drape',
     score: 96,
-    status: 'PAID via Razorpay International',
+    status: 'PAID via Global Express (GBP)',
     statusColor: 'emerald',
     timestamp: '45 mins ago',
   },
@@ -333,7 +333,7 @@ export function AdminDashboard() {
               Orders & Commerce
             </h3>
             <p className="text-xs text-ivory-300">
-              Inspect Razorpay orders, payment signatures, and AI Stylist source conversion attribution.
+              Inspect verified customer orders, payment signatures, and AI Stylist source conversion attribution.
             </p>
           </Link>
 

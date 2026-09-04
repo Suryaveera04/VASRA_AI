@@ -74,7 +74,7 @@ export function Home() {
           </h1>
 
           <p className="max-w-3xl mx-auto text-base sm:text-lg md:text-xl text-ivory-300 font-light leading-relaxed">
-            Step into India's premier agentic handloom showroom. Converse with your personal AI Stylist, visualize pure silk sarees on yourself with Virtual Try-On, and checkout securely via Razorpay.
+            Step into India's premier agentic handloom showroom. Converse with your personal AI Stylist, visualize pure silk sarees on yourself with Virtual Try-On, and checkout securely with instant global payments and UPI.
           </p>
 
           {/* Floating AI Command Bar on Hero */}

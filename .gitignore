@@ -10,9 +10,6 @@ dist/
 build/
 
 # Environment secrets — NEVER commit these
-.env
-.env.local
-.env.production
 
 # Logs
 *.log
@@ -21,7 +18,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Editor
-.vscode/
 .idea/
 *.suo
 *.ntvs*
@@ -37,3 +33,4 @@ coverage/
 
 # TypeScript cache
 *.tsbuildinfo
+config.bat

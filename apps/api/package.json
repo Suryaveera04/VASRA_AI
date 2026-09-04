@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
-    "build": "tsc",
-    "start": "node dist/index.js",
+    "dev": "node init && tsx watch src/index.ts",
+    "build": "node init && tsc",
+    "start": "node init && node dist/index.js",
     "seed": "tsx src/seed/seed.ts",
     "test": "vitest run",
     "test:load": "vitest run src/__tests__/concurrentLoad.test.ts"
